@@ -33,9 +33,9 @@ Created on Tue Jan 20 18:46:57 2026
 
 ########### 3rd Lessson Strings ############
 
-#name="Jahn"
-#surname="Terry"
-#print(f"My full name is {name } {surname}")
+name="Jahn"
+surname="Terry"
+print(f"My full name is {name } {surname}")
 
 #smile = "😂"
 #print(smile)
