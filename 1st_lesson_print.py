@@ -369,13 +369,13 @@ student = students.pop(3)
 
 ## 6 exercise ## 
 
-# users = ["john", "alex", "ben", "marcus", "chad"]
-# new_login = input("Enter new login! >>>")
+users = ["john", "alex", "ben", "marcus", "chad"]
+new_login = input("Enter new login! >>>")
 
-# if new_login.lower() in users:
-#     print("Login is occupied. Please choose another one!")
-# else:
-#     print(f"Welcome, {new_login.title()}")
+if new_login.lower() in users:
+    print("Login is occupied. Please choose another one!")
+else:
+    print(f"Welcome, {new_login.title()}")
 
 ## 7 exercise ## 
 number = int(input("Enter intiger number! >>>"))
